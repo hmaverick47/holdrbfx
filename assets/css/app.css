@@ -24,7 +24,7 @@
 --heading-color6: #0B1040;
 --body-color: #0C0C0C;
 --accent-color: #7B68EE;
---white-smoke: #FDFDE1;
+--white-smoke: #fff;
 --white-color: #ffffff;
 --orange-color: #FF4612;
 --orange-color2: #FF8064;
@@ -8077,7 +8077,7 @@ a.aximo-connect-login img {
   font-weight: 700;
   position: relative;
   justify-content: space-between;
-  color: #FFFDF8 !important;
+  color: #fff !important;
   background-color: var(--dark-bg);
   transition: all 0.4s;
   margin: 0 auto;
