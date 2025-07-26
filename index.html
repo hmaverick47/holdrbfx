@@ -1,0 +1,800 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HOLDR BFX</title>
+
+  <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
+  <!--- End favicon-->
+
+  <link href="https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&family=Bricolage+Grotesque:opsz,wght@12..96,200..800&family=Familjen+Grotesk:ital,wght@0,400..700;1,400..700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Syne:wght@400..800&display=swap" rel="stylesheet">
+  <!-- End google font  -->
+
+  <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/css/magnific-popup.css">
+  <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
+  <link rel="stylesheet" href="assets/css/animate.css">
+  <link rel="stylesheet" href="assets/css/custom-font.css">
+  <link rel="stylesheet" href="assets/css/fontawesome.css">
+  <link rel="stylesheet" href="assets/css/aos.css">
+  <link rel="stylesheet" href="assets/css/icomoon.css">
+  <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+  <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+
+  <!-- Code Editor  -->
+
+  <link rel="stylesheet" href="assets/css/main.css">
+  <link rel="stylesheet" href="assets/css/app.css">
+  <link rel="stylesheet" href="assets/css/custom-styles.css">
+  
+  <!-- Mobile header fix - inline styles for maximum priority -->
+  <style>
+    /* Force header to stay on top with maximum priority */
+    @media (max-width: 991px) {
+      .site-header,
+      .aximo-header-section,
+      header {
+        position: fixed !important;
+        top: 0 !important;
+        left: 0 !important;
+        right: 0 !important;
+        z-index: 99999 !important;
+        width: 100% !important;
+        background-color: #13111A !important; /* Original solid background */
+        padding: 5px 0 !important; /* Restore original padding */
+      }
+      
+      .aximo-hero-section {
+        margin-top: 100px !important;
+        padding-top: 50px !important;
+        position: relative !important;
+        z-index: 1 !important;
+      }
+      
+      body {
+        margin-top: 0 !important;
+        padding-top: 0 !important;
+      }
+    }
+    
+    @media (max-width: 767px) {
+      .aximo-hero-section {
+        margin-top: 90px !important;
+        padding-top: 60px !important;
+      }
+    }
+    
+    @media (max-width: 480px) {
+      .aximo-hero-section {
+        margin-top: 80px !important;
+        padding-top: 70px !important;
+      }
+    }
+  </style>
+</head>
+
+<body class="light" style="padding-top: 0 !important; margin-top: 0 !important;">
+
+  <div class="aximo-preloader-wrap">
+    <div class="aximo-preloader">
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
+  </div>
+
+
+
+
+  <header class="site-header aximo-header-section aximo-header1 dark-bg" id="sticky-menu" style="position: fixed !important; top: 0 !important; left: 0 !important; right: 0 !important; z-index: 99999 !important; width: 100% !important; background-color: #13111A !important; padding: 5px 0 !important;">
+    <div class="container">
+      <nav class="navbar site-navbar">
+        <!-- Brand Logo-->
+        <div class="brand-logo">
+          <a href="index.html">
+            <img src="assets/images/logo/holdr-bfx-logo.png" alt="HOLDR BFX Logo" class="light-version-logo custom-logo">
+          </a>
+        </div>
+        <div class="menu-block-wrapper">
+          <div class="menu-overlay"></div>
+          <nav class="menu-block" id="append-menu-header">
+            <div class="mobile-menu-head">
+              <div class="go-back">
+                <i class="fa fa-angle-left"></i>
+              </div>
+              <div class="current-menu-title"></div>
+              <div class="mobile-menu-close">&times;</div>
+            </div>
+            <ul class="site-menu-main">
+              <li class="nav-item">
+                <a href="errors-404.html" class="nav-link-item">Case Studies</a>
+              </li>
+              <li class="nav-item">
+                <a href="errors-404.html" class="nav-link-item">Our Work</a>
+              </li>
+              <li class="nav-item">
+                <a href="errors-404.html" class="nav-link-item">About Us</a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+
+        <div class="header-btn header-btn-l1 ms-auto">
+          <a class="aximo-default-btn pill aximo-header-btn" href="mailto:holdr.spiralscales@gmail.com">
+            Contact Us
+          </a>
+        </div>
+        <!-- mobile menu trigger -->
+        <div class="mobile-menu-trigger light d-none">
+          <span></span>
+        </div>
+        <!--/.Mobile Menu Hamburger Ends-->
+      </nav>
+    </div>
+  </header>
+  <!--End landex-header-section -->
+
+
+
+  <div class="aximo-hero-section dark-bg" style="margin-top: 120px !important; padding-top: 40px !important; position: relative !important; z-index: 1 !important;">
+    <div class="container position-relative">
+      <div class="row">
+        <div class="col-lg-8">
+          <div class="aximo-hero-content">
+            <h1>
+              <span class="aximo-title-animation">
+                ROAS
+                <img src="assets/images/v1/smiley-face.png" alt="Smiley Face" class="hero-smiley">
+              </span>
+              <br>
+              OR DIE
+            </h1>
+            <p>We engineer <strong>20% higher ROAS in 60 days</strong> by fixing the leaks in your <strong>store, creatives, and campaigns</strong> — without burning more budget.</p>
+            <div class="aximo-hero-user-wrap">
+              <div class="aximo-hero-user-thumb">
+                <div class="aximo-hero-user-thumb-item wow fadeInUpX" data-wow-delay="0s">
+                  <img src="assets/images/v1/user1.png" alt="">
+                </div>
+                <div class="aximo-hero-user-thumb-item wow fadeInUpX" data-wow-delay="0.25s">
+                  <img src="assets/images/v1/user3.png" alt="">
+                </div>
+                <div class="aximo-hero-user-thumb-item wow fadeInUpX" data-wow-delay="0.4s">
+                  <img src="assets/images/v1/user2.png" alt="">
+                </div>
+              </div>
+              <div class="aximo-hero-user-data">
+                <p><strong>+30 Brands</strong> Scaled with us & more......</p>
+              </div>
+            </div>
+            <a class="aximo-call-btn" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/holdr-spiralscales/30min'});return false;">📈 Book Free ROAS Audit <i class="icon-call"></i></a>
+            <div class="aximo-hero-shape">
+              <img src="assets/images/v1/shape1.png" alt="">
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="aximo-hero-thumb video-container wow fadeInRight" style="border: none !important; padding: 0 !important;" data-wow-delay="0s">
+            <!-- Hero video with border removal -->
+            <video autoplay muted loop playsinline style="width: 100%; aspect-ratio: 16/9; border: none !important; object-fit: contain;"><source src="assets/videos/hero-video.mp4" type="video/mp4"><source src="assets/videos/hero-video.webm" type="video/webm"><img src="assets/images/v1/hero-thumb.png" alt="Fallback image"></video>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- End section -->
+
+  <div class="section aximo-section-padding4">
+    <div class="container">
+      <div class="aximo-section-title center">
+        <h2>
+          We engineer profitable 
+          <span class="aximo-title-animation">
+            design systems
+          </span>
+        </h2>
+      </div>
+      <div class="aximo-service-wrap">
+        <div class="row">
+          <div class="col-lg-6">
+            <div class="aximo-iconbox-wrap wow fadeInUpX" data-wow-delay="0.1s">
+              <div class="aximo-iconbox-icon">
+                <img src="assets/images/v1/shopify.svg" alt="Shopify" style="width: 80px; height: 80px;">
+              </div>
+              <div class="aximo-iconbox-data">
+                <h3>Store & Landing-Page CRO</h3>
+                <p> Heat-maps, A/B price tests, risk-reversal tweaks—every pixel engineered to lift ROAS, not just “look nice.”<br><br></p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="aximo-iconbox-wrap wow fadeInUpX" data-wow-delay="0.2s">
+              <div class="aximo-iconbox-icon">
+                <img src="assets/images/v1/offer.svg" alt="Offer & Pricing" style="width: 80px; height: 80px;">
+              </div>
+              <div class="aximo-iconbox-data">
+                <h3>Offer & Pricing Engineering</h3>
+                <p>Turn browsers into buyers through: Upsells, guarantees, urgency timers and seasonal price pivots—built to squeeze extra margin from the same traffic.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="aximo-iconbox-wrap wow fadeInUpX" data-wow-delay="0.3s">
+              <div class="aximo-iconbox-icon">
+                <img src="assets/images/v1/click.svg" alt="Creative Content" style="width: 80px; height: 80px;">
+              </div>
+              <div class="aximo-iconbox-data">
+                <h3>Scroll-Stopper Creatives</h3>
+                <p>Ads that survive the swipe whether it's:
+ Static, carousel & UGC videos: hooks, angles, bodies and CTAs battle-tested to beat creative fatigue and slash CPA.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="aximo-iconbox-wrap wow fadeInUpX" data-wow-delay="0.4s">
+              <div class="aximo-iconbox-icon">
+                <img src="assets/images/v1/campaign.svg" alt="Campaign Testing" style="width: 80px; height: 80px;">
+              </div>
+              <div class="aximo-iconbox-data">
+                <h3>Campaign Testing Engine</h3>
+                <p>Only two levers, zero fluff: (Task 1: rapid-fire creative testing.) (Task 2: split-test store vs. control. We manage both inside your BM), no extra hires.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- End section -->
+
+  <div class="section aximo-section-padding">
+    <div id="aximo-counter"></div>
+    <div class="container">
+      <div class="aximo-section-title">
+        <div class="row">
+          <div class="col-lg-7">
+            <h2>
+              <span class="aximo-title-animation">
+                Transform Your Ecom Game
+              </span>
+          
+            </h2>
+          </div>
+          <div class="col-lg-4 offset-lg-1 d-flex align-items-center">
+            <p>We engineer profit-driven design systems for Shopify brands turning every click into cash, not just pretty pixels</p>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-8">
+          <div class="aximo-video-wrap wow fadeInUpX" data-wow-delay="0s">
+            <div class="responsive-video-container">
+              <iframe 
+                width="100%" 
+                height="450" 
+                src="https://www.youtube.com/embed/Gwj69jwlYnI" 
+                title="YouTube video player" 
+                frameborder="0" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                allowfullscreen>
+              </iframe>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="aximo-counter-wrap">
+            <div class="aximo-counter-data">
+              <h2 class="aximo-counter-number"><span data-percentage="2.5" class="aximo-counter"></span>+</h2>
+              <p>Years of experience</p>
+            </div>
+            <div class="aximo-counter-data">
+              <h2 class="aximo-counter-number"><span data-percentage="200" class="aximo-counter"></span>+</h2>
+              <p>Successful creatives</p>
+            </div>
+            <div class="aximo-counter-data">
+              <h2 class="aximo-counter-number"><span data-percentage="30" class="aximo-counter"></span>+</h2>
+              <p>Happy clients</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- End section -->
+
+  <div class="section dark-bg aximo-section-padding">
+    <div class="container">
+      <div class="aximo-section-title center light">
+        <h2>
+          Our Past 
+          <span class="aximo-title-animation">
+            creative projects
+          </span>
+        </h2>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-lg-6">
+          <div class="aximo-project-thumb">
+            <a href="https://televerse.shop/" target="_blank" class="project-link">
+              <img src="assets/images/v1/project1.png" alt="Shopify Designs">
+              <div class="aximo-project-wrap">
+                <div class="aximo-project-data">
+                  <h3>Shopify Designs</h3>
+                  <p>High-converting Shopify stores engineered for maximum ROAS and user experience.</p>
+                </div>
+                <div class="aximo-project-icon">
+                  <svg width="34" height="28" viewBox="0 0 34 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M19.9795 2C19.9795 2 20.5 8 25.9795 11.2C28.4887 12.6653 31.9795 14 31.9795 14M31.9795 14H2M31.9795 14C31.9795 14 28.5339 15.415 25.9795 16.8C19.9795 20.0533 19.9795 26 19.9795 26" stroke="#FDFDE1" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                  </svg>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <div class="aximo-project-thumb">
+            <a href="https://www.behance.net/" target="_blank" class="project-link">
+              <img src="assets/images/v1/project2.png" alt="Creative Work">
+              <div class="aximo-project-wrap">
+                <div class="aximo-project-data">
+                  <h3>Creative Work</h3>
+                  <p>Scroll-stopping ads and visuals that drive engagement and conversions.</p>
+                </div>
+                <div class="aximo-project-icon">
+                  <svg width="34" height="28" viewBox="0 0 34 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M19.9795 2C19.9795 2 20.5 8 25.9795 11.2C28.4887 12.6653 31.9795 14 31.9795 14M31.9795 14H2M31.9795 14C31.9795 14 28.5339 15.415 25.9795 16.8C19.9795 20.0533 19.9795 26 19.9795 26" stroke="#FDFDE1" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                  </svg>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- End section -->
+
+  <div class="section">
+    <div class="container">
+      <div class="aximo-faq-wrap">
+        <div class="row">
+          <div class="col-lg-7 d-flex align-items-center">
+            <div class="aximo-default-content">
+              <h2>
+                <span class="aximo-title-animation">
+                  Our ROAS OR DIE
+                </span>
+                Simple Process
+              </h2>
+              <div class="process-rating">
+                <img src="assets/images/v1/starrr.png" alt="5 star rating" class="rating-star">
+                <img src="assets/images/v1/starrr.png" alt="5 star rating" class="rating-star">
+                <img src="assets/images/v1/starrr.png" alt="5 star rating" class="rating-star">
+                <img src="assets/images/v1/starrr.png" alt="5 star rating" class="rating-star">
+                <img src="assets/images/v1/starrr.png" alt="5 star rating" class="rating-star">
+              </div>
+              <p>We focus at every stage on effective communication and collaboration, ensuring the final creative strategy meets your primary business objective: </p>
+              <p>increasing your ROAS. Our process is a continuous cycle of experimentation, execution, and optimization, designed to turn creative from a gamble into a predictable growth engine.</p>
+            </div>
+          </div>
+          <div class="col-lg-5">
+            <div class="aximo-accordion-wrap wow fadeInUpX" data-wow-delay="0s" id="aximo-accordion">
+              <div class="aximo-accordion-item open">
+                <div class="aximo-accordion-header">
+                  <h3>01/ Strategic Diagnosis</h3>
+                </div>
+                <div class="aximo-accordion-body">
+                  <p>Before we create anything, we conduct a deep-dive analysis of your entire creative ecosystem. This includes a full ad account audit to set performance benchmarks, in-depth audience research to uncover the core psychological drivers of your customers, and a competitor landscape analysis to identify high-leverage strategic angles. We deliver a clear diagnosis of what's working, what isn't, and where the biggest opportunities for ROAS improvement lie.</p>
+                </div>
+              </div>
+              <div class="aximo-accordion-item">
+                <div class="aximo-accordion-header">
+                  <h3>02/ Creative Engineering</h3>
+                </div>
+                <div class="aximo-accordion-body">
+                  <p>We turn the insights from our diagnosis into a pipeline of data-informed creative assets. This is where art meets science. We develop specific creative hypotheses, craft compelling hooks and ad copy, and engineer a diverse portfolio of creative variations (video, static, carousel) designed not just to look good, but to be rigorously tested against your key performance indicators.</p>
+                </div>
+              </div>
+              <div class="aximo-accordion-item">
+                <div class="aximo-accordion-header">
+                  <h3>03/ Testing & Enhancing</h3>
+                </div>
+                <div class="aximo-accordion-body">
+                  <p>We launch your creative into a disciplined testing framework. We meticulously analyze performance data—hook rates, hold rates, CTR, and CPA—to determine what's working and why. Winning concepts are scaled, while underperformers are eliminated. We then create iterative variations of your winning ads to fight creative fatigue, ensuring we maximize profitability and sustain performance over the long term.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- End section -->
+
+  <div class="section aximo-section-padding3">
+    <div class="container">
+      <div class="aximo-section-title center">
+        <h2>
+          Time to write history
+          <span class="aximo-title-animation">
+            Only with you
+          </span>
+        </h2>
+      </div>
+      <div class="row">
+        <div class="col-lg-6">
+          <div class="aximo-testimonial-wrap wow fadeInUpX spot-taken" data-wow-delay="0.1s">
+            <div class="aximo-testimonial-rating">
+              <ul>
+                <li><i class="icon-star"></i></li>
+                <li><i class="icon-star"></i></li>
+                <li><i class="icon-star"></i></li>
+                <li><i class="icon-star"></i></li>
+                <li><i class="icon-star"></i></li>
+              </ul>
+              <span class="opportunity-tag">Spot 01/04</span>
+            </div>
+            <div class="aximo-testimonial-data">
+              <h3>Your Success Story Here</h3>
+              <p>🎯 Exclusive Opportunity: Get 15 days of creative work FREE + 50% off continued services in exchange for your testimonial. Join our success stories and transform your brand's ROAS while saving on premium creative services.</p>
+            </div>
+            <div class="aximo-testimonial-author">
+              <div class="aximo-testimonial-author-data">
+                <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/holdr-spiralscales/30min'});return false;" class="aximo-call-btn">📈 Claim This Spot</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <div class="aximo-testimonial-wrap wow fadeInUpX spot-taken" data-wow-delay="0.2s">
+            <div class="aximo-testimonial-rating">
+              <ul>
+                <li><i class="icon-star"></i></li>
+                <li><i class="icon-star"></i></li>
+                <li><i class="icon-star"></i></li>
+                <li><i class="icon-star"></i></li>
+                <li><i class="icon-star"></i></li>
+              </ul>
+              <span class="opportunity-tag">Spot 02/04</span>
+            </div>
+            <div class="aximo-testimonial-data">
+              <h3>Your Success Story Here</h3>
+              <p>🎯 Exclusive Opportunity: Get 15 days of creative work FREE + 50% off continued services in exchange for your testimonial. Join our success stories and transform your brand's ROAS while saving on premium creative services.</p>
+            </div>
+            <div class="aximo-testimonial-author">
+              <div class="aximo-testimonial-author-data">
+                <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/holdr-spiralscales/30min'});return false;" class="aximo-call-btn">📈 Claim This Spot</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <div class="aximo-testimonial-wrap wow fadeInUpX spot-taken" data-wow-delay="0.3s">
+            <div class="aximo-testimonial-rating">
+              <ul>
+                <li><i class="icon-star"></i></li>
+                <li><i class="icon-star"></i></li>
+                <li><i class="icon-star"></i></li>
+                <li><i class="icon-star"></i></li>
+                <li><i class="icon-star"></i></li>
+              </ul>
+              <span class="opportunity-tag">Spot 03/04</span>
+            </div>
+            <div class="aximo-testimonial-data">
+              <h3>Your Success Story Here</h3>
+              <p>🎯 Exclusive Opportunity: Get 15 days of creative work FREE + 50% off continued services in exchange for your testimonial. Join our success stories and transform your brand's ROAS while saving on premium creative services.</p>
+            </div>
+            <div class="aximo-testimonial-author">
+              <div class="aximo-testimonial-author-data">
+                <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/holdr-spiralscales/30min'});return false;" class="aximo-call-btn">📈 Claim This Spot</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <div class="aximo-testimonial-wrap wow fadeInUpX" data-wow-delay="0.4s">
+            <div class="aximo-testimonial-rating">
+              <ul>
+                <li><i class="icon-star"></i></li>
+                <li><i class="icon-star"></i></li>
+                <li><i class="icon-star"></i></li>
+                <li><i class="icon-star"></i></li>
+                <li><i class="icon-star"></i></li>
+              </ul>
+              <span class="opportunity-tag">Spot 04/04</span>
+            </div>
+            <div class="aximo-testimonial-data">
+              <h3>Your Success Story Here</h3>
+              <p>🎯 Exclusive Opportunity: Get 15 days of creative work FREE + 50% off continued services in exchange for your testimonial. Join our success stories and transform your brand's ROAS while saving on premium creative services.</p>
+            </div>
+            <div class="aximo-testimonial-author">
+              <div class="aximo-testimonial-author-data">
+                <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/holdr-spiralscales/30min'});return false;" class="aximo-call-btn">📈 Claim This Spot</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+  <!-- End section -->
+
+  <div class="aximo-auto-slider-section">
+    <div class="swiper aximo-auto-slider">
+      <div class="swiper-wrapper">
+        <div class="swiper-slide">
+          <div class="aximo-auto-slider-item">
+            <h3>Portfolio Offer Closing Soon</h3>
+            <img src="assets/images/v1/star3.png" alt="">
+          </div>
+        </div>
+        <div class="swiper-slide">
+          <div class="aximo-auto-slider-item">
+            <h3>only 01 spot left</h3>
+            <img src="assets/images/v1/star3.png" alt="">
+          </div>
+        </div>
+        <div class="swiper-slide">
+          <div class="aximo-auto-slider-item">
+            <h3>Portfolio Offer Closing Soon</h3>
+            <img src="assets/images/v1/star3.png" alt="">
+          </div>
+        </div>
+        <div class="swiper-slide">
+          <div class="aximo-auto-slider-item">
+            <h3>only 01 spot left</h3>
+            <img src="assets/images/v1/star3.png" alt="">
+          </div>
+        </div>
+        <div class="swiper-slide">
+          <div class="aximo-auto-slider-item">
+            <h3>Portfolio Offer Closing Soon</h3>
+            <img src="assets/images/v1/star3.png" alt="">
+          </div>
+        </div>
+        <div class="swiper-slide">
+          <div class="aximo-auto-slider-item">
+            <h3>only 01 spot left</h3>
+            <img src="assets/images/v1/star3.png" alt="">
+          </div>
+        </div>
+        <div class="swiper-slide">
+          <div class="aximo-auto-slider-item">
+            <h3>Portfolio Offer Closing Soon</h3>
+            <img src="assets/images/v1/star3.png" alt="">
+          </div>
+        </div>
+        <div class="swiper-slide">
+          <div class="aximo-auto-slider-item">
+            <h3>only 01 spot left</h3>
+            <img src="assets/images/v1/star3.png" alt="">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- End section -->
+
+  <div class="section aximo-section-padding3">
+    <div class="container">
+      <div class="aximo-section-title center">
+        <h2>
+          Solo Founder,
+          <span class="aximo-title-animation">
+            Maximum Impact
+          </span>
+        </h2>
+      </div>
+      <div class="row justify-content-center">
+        <div class="col-xl-4 col-md-6">
+          <div class="aximo-team-wrap wow fadeInUpX" data-wow-delay="0.1s">
+            <div class="aximo-team-thumb">
+              <img src="assets/images/team/team1.jpg" alt="">
+              <div class="aximo-social-icon team-social">
+                <ul>
+                  <li>
+                    <a href="https://x.com/bfxholdr" target="_blank">
+                      <i class="icon-twitter"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://www.instagram.com/hatem.ouchen/" target="_blank">
+                      <i class="icon-instagram"></i>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="aximo-team-data">
+              <h3>Hatem "HOLDR"</h3>
+              <p>Founder & CEO</p>
+              <p style="font-size: 14px; margin-top: 5px; opacity: 0.85;">Creative CRO specialist. I spend my days analyzing ad performance.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- End section -->
+
+
+
+
+  <!-- Footer  -->
+
+  <style>
+    @media (max-width: 991px) {
+      .footer-pc-view {
+        display: none !important;
+      }
+      .footer-mobile-view {
+        display: block !important;
+      }
+    }
+    @media (min-width: 992px) {
+      .footer-pc-view {
+        display: flex !important;
+      }
+      .footer-mobile-view {
+        display: none !important;
+      }
+      .footer-pc-view .footer-content-left {
+        flex: 0 0 50%;
+        padding-right: 30px;
+      }
+      .footer-pc-view .footer-widget-right {
+        flex: 0 0 50%;
+        display: flex;
+        align-items: flex-start;
+      }
+      .footer-widget-right .calendly-inline-widget {
+        width: 100% !important;
+        height: 100% !important;
+        min-height: 650px;
+      }
+    }
+  </style>
+
+  <footer class="aximo-footer-section dark-bg">
+    <div class="container">
+      <div class="aximo-footer-top aximo-section-padding">
+        <!-- PC View -->
+        <div class="footer-pc-view">
+          <div class="footer-content-left">
+            <div class="aximo-default-content light">
+              <h3 style="font-size: 38px; line-height: 1.3; color: #fff; margin-bottom: 25px;">
+                <span class="aximo-title-animation">Your ROAS OR DIE</span>
+                Journey Starts Here.
+              </h3>
+              <p style="font-size: 16px; line-height: 1.6; margin-bottom: 30px;">We offer a very time limited offer now. Free 15 days trials, 50% OFF after that. Guess what too...... We only charge you for Creative Work we do, everything eles is free of charge but it's very time limited and we are almost done with this offer. Schedule your call and let's start.</p>
+              <div class="aximo-info-wrap" style="margin-bottom: 30px;">
+                <div class="aximo-info">
+                  <ul>
+                    <li style="font-size: 18px; margin-bottom: 10px;">Send us an email:</li>
+                    <li><a href="mailto:holdr.spiralscales@gmail.com" style="color: #fff; font-size: 16px; text-decoration: underline;">holdr.spiralscales@gmail.com</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="aximo-info" style="margin-bottom: 15px;">
+                <ul>
+                    <li style="font-size: 18px;">Send us a DM:</li>
+                </ul>
+              </div>
+              <div class="aximo-social-icon social-large" style="margin-top: 15px;">
+                <ul style="display: flex; gap: 15px;">
+                  <li><a href="https://x.com/bfxholdr" target="_blank" style="color: #7F6DF2; font-size: 20px; transition: color 0.3s ease;"><i class="icon-twitter"></i></a></li>
+                  <li><a href="https://www.instagram.com/bfx.holdr/" target="_blank" style="color: #7F6DF2; font-size: 20px; transition: color 0.3s ease;"><i class="icon-instagram"></i></a></li>
+                  <li><a href="https://www.linkedin.com/" target="_blank" style="color: #7F6DF2; font-size: 20px; transition: color 0.3s ease;"><i class="icon-linkedin"></i></a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="footer-widget-right">
+            <div class="calendly-inline-widget" data-url="https://calendly.com/holdr-spiralscales/30min?hide_event_type_details=1&hide_gdpr_banner=1"></div>
+          </div>
+        </div>
+
+        <!-- Mobile View -->
+        <div class="row footer-mobile-view">
+          <div class="col-12">
+            <div class="aximo-default-content light position-relative" style="padding: 30px; background: rgba(255, 255, 255, 0.02); border-radius: 15px; margin-top: 20px;">
+              <h3 style="font-size: clamp(28px, 5vw, 38px); line-height: 1.3; color: #fff; margin-bottom: 25px; text-align: center;">
+                <span class="aximo-title-animation">
+                  Your ROAS OR DIE
+                </span>
+                Journey Starts Here.
+              </h3>
+              <p style="font-size: 16px; line-height: 1.6; margin-bottom: 30px; text-align: center;">We offer a very time limited offer now. Free 15 days trials, 50% OFF after that. Guess what too...... We only charge you for Creative Work we do, everything eles is free of charge but it's very time limited and we are almost done with this offer. Schedule your call and let's start.</p>
+              
+              <!-- Calendly inline widget begin -->
+              <div class="mobile-widget-container" style="width: 100%; margin: 30px -15px;">
+                <div class="calendly-inline-widget" data-url="https://calendly.com/holdr-spiralscales/30min?hide_event_type_details=1&hide_gdpr_banner=1" style="min-width:320px; width:100%; height:650px;"></div>
+              </div>
+              <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+              <!-- Calendly inline widget end -->
+
+              <div class="aximo-info-wrap" style="margin-bottom: 30px; text-align: center;">
+                <div class="aximo-info">
+                  <ul style="padding: 0;">
+                    <li style="font-size: 18px; margin-bottom: 10px;">Send us an email:</li>
+                    <li><a href="mailto:holdr.spiralscales@gmail.com" style="color: #fff; font-size: 16px; text-decoration: underline;">holdr.spiralscales@gmail.com</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="aximo-info" style="margin-bottom: 15px; text-align: center;">
+                <ul style="padding: 0;">
+                    <li style="font-size: 18px;">Send us a DM:</li>
+                </ul>
+              </div>
+              <div class="aximo-social-icon social-large" style="margin-top: 15px; text-align: center;">
+                <ul style="display: flex; gap: 15px; justify-content: center; padding: 0;">
+                  <li><a href="https://x.com/bfxholdr" target="_blank" style="color: #7F6DF2; font-size: 20px; transition: color 0.3s ease;"><i class="icon-twitter"></i></a></li>
+                  <li><a href="https://www.instagram.com/bfx.holdr/" target="_blank" style="color: #7F6DF2; font-size: 20px; transition: color 0.3s ease;"><i class="icon-instagram"></i></a></li>
+                  <li><a href="https://www.linkedin.com/" target="_blank" style="color: #7F6DF2; font-size: 20px; transition: color 0.3s ease;"><i class="icon-linkedin"></i></a></li>
+                </ul>
+              </div>
+              <div class="aximo-hero-shape aximo-footer-shape">
+                <img src="assets/images/v1/shape1.png" alt="" style="transform: scale(0.588);">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="aximo-footer-bottom">
+        <div class="row">
+          <div class="col-lg-6">
+            <div class="aximo-footer-logo">
+              <a href="" style="text-decoration: none;">
+                <span style="color: #fff; font-size: 24px; font-weight: 600;">HOLDR BFX</span>
+              </a>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="aximo-copywright one">
+              <p> &copy; Copyright 2025, All Rights Reserved by HOLDR BFX</p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+  </footer>
+
+
+
+
+
+  <!-- scripts -->
+  <script src="assets/js/jquery-3.6.0.min.js"></script>
+  <script src="assets/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/js/aos.js"></script>
+  <script src="assets/js/menu/menu.js"></script>
+  <script src="assets/js/gsap.min.js"></script>
+  <script src="assets/js/isotope.pkgd.min.js"></script>
+  <script src="assets/js/jquery.magnific-popup.min.js"></script>
+  <script src="assets/js/swiper-bundle.min.js"></script>
+  <script src="assets/js/countdown.js"></script>
+  <script src="assets/js/wow.min.js"></script>
+  <script src="assets/js/SplitText.min.js"></script>
+  <script src="assets/js/ScrollTrigger.min.js"></script>
+  <script src="assets/js/ScrollSmoother.min.js"></script>
+  <script src="assets/js/skill-bar.js"></script>
+  <script src="assets/js/infinite-slider.js"></script>
+  <script src="assets/js/image-resizing.js"></script>
+  <!-- <script src="assets/js/scrollsmooth.js"></script> -->
+  <script src="assets/js/faq.js"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?v=3&key=AIzaSyArZVfNvjnLNwJZlLJKuOiWHZ6vtQzzb1Y"></script>
+
+  <script src="assets/js/app.js"></script>
+
+
+</body>
+</html>

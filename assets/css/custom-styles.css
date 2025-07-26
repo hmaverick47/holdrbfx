@@ -1,0 +1,511 @@
+/* Custom logo styling */
+.custom-logo {
+  height: 120px;
+  width: auto;
+  object-fit: cover;
+  object-position: center;
+  clip-path: inset(25% 0 25% 0);
+}
+
+/* Header optimization */
+
+/* Testimonial opportunity spots styling */
+.opportunity-tag {
+    background: #7F6DF2;
+    color: #fff;
+    padding: 5px 15px;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 14px;
+    display: inline-block;
+    vertical-align: middle;
+    border: 1px solid #7F6DF2;
+}
+
+.aximo-testimonial-rating {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+
+.aximo-testimonial-rating ul {
+    display: flex;
+    gap: 5px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.aximo-testimonial-wrap .aximo-testimonial-author .aximo-testimonial-author-data .aximo-call-btn {
+    display: inline-block;
+    padding: 12px 30px;
+    background: #7F6DF2;
+    color: #fff;
+    border-radius: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    border: 1px solid #7F6DF2;
+}
+
+.aximo-testimonial-wrap .aximo-testimonial-author .aximo-testimonial-author-data .aximo-call-btn:hover {
+    background: #FFD700;
+    color: #7F6DF2;
+    transform: translateY(-2px);
+    border-color: #FFD700;
+}
+
+.aximo-testimonial-wrap {
+    border: 2px solid #7F6DF2;
+    transition: all 0.3s ease;
+    background: rgba(127, 109, 242, 0.02);
+    position: relative;
+}
+
+.aximo-testimonial-wrap:hover {
+    transform: translateY(-5px);
+    border-color: #7F6DF2;
+    box-shadow: 0 10px 30px rgba(127, 109, 242, 0.1);
+}
+
+/* Style for taken spots */
+.aximo-testimonial-wrap.spot-taken {
+    position: relative;
+    pointer-events: none;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+
+.aximo-testimonial-wrap.spot-taken * {
+    pointer-events: none !important;
+    user-select: none !important;
+    -webkit-user-select: none !important;
+    -moz-user-select: none !important;
+    -ms-user-select: none !important;
+}
+
+.aximo-testimonial-wrap.spot-taken::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    background: rgba(255, 255, 255, 0.05);
+    z-index: 99;
+}
+
+.aximo-testimonial-wrap.spot-taken::before {
+    content: "SPOT\A TAKEN";
+    white-space: pre;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #FF3B3B;
+    font-weight: 900;
+    font-size: 63px;
+    line-height: 1.2;
+    z-index: 100;
+    text-align: center;
+    text-shadow: 3px 3px 6px rgba(0,0,0,0.3);
+    letter-spacing: 2px;
+}
+.site-header {
+  padding: 5px 0;
+}
+
+/* Hero smiley face styling */
+.hero-smiley {
+  width: 96px !important;
+  height: 96px !important;
+  object-fit: contain;
+  display: inline-block !important;
+  vertical-align: middle;
+  position: relative !important;
+  left: -25px !important;
+  margin-top: -45px !important;
+}
+
+/* Hide smiley face on tablets and mobile */
+@media (max-width: 991px) {
+  .hero-smiley {
+    display: none !important;
+  }
+}
+
+/* Pixel Sale Image Styling - Easily Customizable */
+.pixel-sale-icon {
+  position: relative;
+  display: inline-block;
+}
+
+.pixel-sale-img {
+  /* SIZE CONTROLS - Change these values to scale the image */
+  width: 80px !important;           /* Adjust width (e.g., 60px, 100px, 120px) */
+  height: auto !important;          /* Maintains aspect ratio */
+  
+  /* POSITION CONTROLS - Change these values to move the image */
+  position: relative !important;
+  top: -10px !important;            /* Vertical position (negative = up, positive = down) */
+  left: 5px !important;             /* Horizontal position (negative = left, positive = right) */
+  
+  /* DISPLAY CONTROLS */
+  object-fit: contain !important;   /* Keeps image crisp and properly scaled */
+  display: inline-block !important;
+  vertical-align: middle !important;
+  
+  max-width: 100%;     /* Prevents overflow */
+  max-height: 100%;    /* Ensures full image is visible */
+  overflow: visible;   /* Ensures content isn’t hidden */
+
+  /* OPTIONAL: Add rotation if needed */
+  /* transform: rotate(15deg); */
+  
+  /* OPTIONAL: Add animation */
+  /* transition: transform 0.3s ease; */
+}
+
+/* Override the default aximo-title-icon styles specifically for pixel sale */
+.pixel-sale-icon.aximo-title-icon {
+  position: relative !important;
+  bottom: auto !important;
+  right: auto !important;
+  display: inline-block !important;
+}
+
+/* Hover effect for the pixel sale image (optional) */
+/* 
+.pixel-sale-img:hover {
+  transform: scale(1.1) rotate(5deg);
+}
+*/
+
+/* Project Links Styling */
+.project-link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  transition: all 0.3s ease;
+}
+
+.project-link:hover {
+  transform: translateY(-5px);
+}
+
+.project-link:hover .aximo-project-icon {
+  transform: translateX(10px);
+}
+
+.aximo-project-thumb {
+  position: relative;
+  overflow: hidden;
+  border-radius: 8px;
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  margin-bottom: 30px;
+  transform: translateZ(0);
+  -webkit-transform: translateZ(0);
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  cursor: pointer;
+}
+
+.aximo-project-thumb .project-link {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-decoration: none;
+  z-index: 1;
+}
+
+.aximo-project-thumb img {
+  width: 100%;
+  height: auto;
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  transform: translateZ(0);
+  will-change: transform;
+}
+
+.aximo-project-thumb .aximo-project-wrap {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(19, 17, 26, 0.95);
+  padding: 25px;
+  transform: translateY(0);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  will-change: transform;
+  z-index: 2;
+}
+
+.aximo-project-thumb:hover {
+  transform: translateY(-5px) translateZ(0);
+}
+
+.aximo-project-thumb:hover img {
+  transform: scale(1.05) translateZ(0);
+}
+
+/* Mobile responsiveness for pixel sale image */
+@media (max-width: 768px) {
+  .pixel-sale-img {
+    display: none !important;       /* Hide on mobile devices */
+  }
+}
+
+/* Hide pixel sale image on tablets */
+@media (min-width: 769px) and (max-width: 1024px) {
+  .pixel-sale-img {
+    display: none !important;       /* Hide on tablet devices */
+  }
+}
+
+/* Hero section bold text color - only for main paragraph, not user data */
+.aximo-hero-content > p strong {
+  color: #F5E92A !important;
+}
+
+/* Custom Accordion Styles */
+.aximo-accordion-wrap {
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.aximo-accordion-item {
+    margin-bottom: 20px;
+    background: transparent;
+    border: 2px solid rgba(255, 255, 255, 0.15);
+    border-radius: 8px;
+    transition: border-color 0.3s ease;
+}
+
+.aximo-accordion-item.open {
+    border-color: rgba(255, 255, 255, 0.25);
+}
+
+.aximo-accordion-header {
+    position: relative;
+    padding: 25px 60px 25px 30px; /* Increased right padding for arrow */
+}
+
+.aximo-accordion-header h3 {
+    font-size: 20px;
+    margin: 0;
+    padding-right: 40px; /* Space for arrow */
+    line-height: 1.4;
+}
+
+.aximo-accordion-header:before {
+    position: absolute;
+    right: 30px; /* Move arrow further right */
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.aximo-accordion-body {
+    padding: 0 30px 25px;
+}
+
+.aximo-accordion-body p {
+    margin: 0;
+    line-height: 1.6;
+}
+
+/* Responsive adjustments */
+@media (min-width: 992px) {
+    .aximo-accordion-wrap {
+        min-width: 500px; /* Minimum width on larger screens */
+    }
+    
+    .aximo-accordion-header h3 {
+        font-size: 22px;
+    }
+}
+
+@media (max-width: 991px) {
+    .aximo-accordion-header {
+        padding: 20px 50px 20px 25px;
+    }
+    
+    .aximo-accordion-body {
+        padding: 0 25px 20px;
+    }
+}
+
+/* Ensure content column has proper spacing */
+.aximo-default-content {
+    padding-right: 40px;
+}
+
+@media (max-width: 991px) {
+    .aximo-default-content {
+        padding-right: 0;
+        margin-bottom: 40px;
+    }
+}
+
+/* Process rating stars */
+.process-rating {
+    display: flex;
+    gap: 8px;
+    margin: 20px 0;
+    align-items: center;
+}
+
+@media (max-width: 991px) {
+    .process-rating {
+        justify-content: center;
+        margin: 15px auto;
+        width: 100%;
+    }
+}
+
+@media (max-width: 480px) {
+    .process-rating {
+        gap: 6px;
+    }
+    .rating-star {
+        width: 20px;
+        height: 20px;
+    }
+}
+
+.rating-star {
+    width: 36px;  /* 24px * 1.5 */
+    height: 36px; /* 24px * 1.5 */
+    object-fit: contain;
+    filter: brightness(1.2);
+}
+
+@media (max-width: 480px) {
+    .rating-star {
+        width: 30px;  /* 20px * 1.5 */
+        height: 30px; /* 20px * 1.5 */
+    }
+}
+
+/* Reset color for user data section */
+.aximo-hero-user-data strong {
+  color: inherit !important;
+}
+
+/* Responsive Video Container Styles */
+.responsive-video-container {
+  position: relative !important;
+  width: 100% !important;
+  padding-bottom: 56.25% !important; /* 16:9 Aspect Ratio */
+  height: 0 !important;
+  overflow: hidden !important;
+  border-radius: 15px !important; /* Optional: adds rounded corners to the video */
+}
+
+.responsive-video-container iframe {
+  position: absolute !important;
+  top: 0 !important;
+  left: 0 !important;
+  width: 100% !important;
+  height: 100% !important;
+  border: none !important;
+}
+
+/* Mobile hero section fixes */
+@media (max-width: 991px) {
+  .aximo-hero-section {
+    margin-top: 100px !important; /* Account for fixed header */
+    padding-top: 40px !important; /* Additional padding for breathing room */
+  }
+  
+  .aximo-hero-content h1 {
+    text-align: center !important;
+  }
+  
+  /* Ensure video container appears below header */
+  .aximo-hero-thumb.video-container {
+    margin-top: 20px !important;
+    z-index: 1 !important; /* Keep below header */
+  }
+}
+
+/* Additional mobile-specific adjustments */
+@media (max-width: 767px) {
+  .aximo-hero-section {
+    margin-top: 90px !important; /* Adjusted for fixed header */
+    padding-top: 50px !important; /* Additional padding for phones */
+  }
+  
+  /* Additional space for video on phones */
+  .aximo-hero-thumb.video-container {
+    margin-top: 30px !important;
+  }
+}
+
+/* Tablet specific adjustments */
+@media (min-width: 768px) and (max-width: 991px) {
+  .aximo-hero-section {
+    margin-top: 95px !important; /* Adjusted for fixed header on tablets */
+    padding-top: 45px !important;
+  }
+}
+
+/* Ensure proper z-index layering for all screen sizes */
+.site-header,
+.aximo-header-section,
+.aximo-header1,
+header {
+  z-index: 99999 !important;
+  position: fixed !important;
+  top: 0 !important;
+  left: 0 !important;
+  right: 0 !important;
+  width: 100% !important;
+  background-color: #13111A !important; /* Original solid background */
+  padding: 5px 0 !important; /* Restore original padding */
+}
+
+/* Force header to stay on top on mobile */
+@media (max-width: 991px) {
+  .site-header,
+  .aximo-header-section,
+  .aximo-header1,
+  header {
+    position: fixed !important;
+    z-index: 99999 !important;
+    top: 0 !important;
+    background-color: #13111A !important; /* Original solid background */
+    padding: 5px 0 !important; /* Restore original padding */
+  }
+}
+
+.aximo-hero-section {
+  z-index: 1 !important;
+  position: relative !important;
+}
+
+/* Additional safety margin for very small mobile devices */
+@media (max-width: 480px) {
+  .aximo-hero-section {
+    margin-top: 85px !important;
+    padding-top: 55px !important;
+  }
+}
+
+/* Ensure body content starts below fixed header */
+@media (max-width: 991px) {
+  body {
+    padding-top: 0 !important;
+  }
+  
+  /* Push all content below the fixed header */
+  .aximo-hero-section,
+  .section:first-of-type {
+    position: relative !important;
+    z-index: 1 !important;
+  }
+}
