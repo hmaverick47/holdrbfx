@@ -1,0 +1,597 @@
+body
+commentCreatedAt
+r/FacebookAds
+Hey guys, i have one question regarding testing creatives.
+Is it better to test for example 3 same video creatives with a different hook but the same marketing angle or is it
+better to test 3-5 different creatives with different angles each, and if i find a marketing angle that works then
+create new creatives with that winning angle?
+Thanks in advance
+Definitely go for different angles.
+An angle isn't just a video or a concept, it might be your entire business for the next couple of years.
+People underestimate the importance of angles while overestimate the technical gimmicks like hooks.
+Try to find the best possible angle and take it to the next level by matching different landing pages to different
+angles.
+Once you'll nail the angle, go build a banger ad. Once those are in placs, play with hooks
+2024-02-04T19:40:58.000Z
+[removed]
+2024-02-05T14:19:58.000Z
+r/FacebookAds
+Hey everyone — I’m building something and wanted to get a bit of early feedback from people actually running
+Facebook Ads.
+One of the biggest issues I’ve run into (and heard from others too) is creative fatigue — where your campaigns
+are dialed in, your targeting’s solid, but performance drops off and you’re stuck wondering what ad to run next.
+I’ve seen tools that connect to Ads Manager and give you breakdowns of what’s working — but they usually stop
+there. You get the data, but not the creative.
+The tool I’m working on goes a step further: it connects to your Facebook Ads Manager, figures out why your
+best ads are working (emojis, CTA styles, headlines, etc.), and then automatically generates new ad variations
+based on those insights. You’d be able to upload those directly into your campaigns without having to
+brainstorm from scratch.
+Not a promo post — I’m really trying to gauge if this is a real pain for others and if it’s something people would
+*actually* pay for.
+If anyone’s curious, I’ve got a landing page up with a waitlist — happy to pm the link so you can check it out and
+join if it sounds interesting.
+Would love to hear your thoughts, is this something that would help? What would you want it to do better than
+your current workflow?
+Creative fatigue is such a real thing, especially once you’ve scaled past the early wins and start seeing
+performance taper off for no clear reason.
+I managed an account spending $100k/month for a client, and creative fatigue completely tanked our
+performance after a strong run. Everything else was dialed in audience, offer, funnel but once the ads wore out,
+we were scrambling for fresh angles without enough time to properly analyze what made the winners tick in the
+first place.
+So here is how i fixed it- Basically, every week while the current ads were running, I would test micro-variations
+*as* engagement ads to gather low-cost data on hooks, visuals, and scroll-stoppers. Not conversion-focused
+just idea testing in disguise.
+That way, by the time fatigue hit, I wasn’t starting from scratch. I already had validated creative bits I could remix
+into fresh ads. It's like always having your next wave of creatives warming up behind the scenes. Kept
+performance way more stable, even at scale.
+2025-04-12T21:00:05.000Z
+Hey thanks for the response. Yeah, I’ve run into that exact issue too — I manage around $40k/month in spend,
+and once our best ads started tapering off, keeping up with creative was a constant grind.
+I'm trying to build a tool for myself that analyzes the top-performing ads and auto-generates new variations both
+copy and visuals so I’m not the one manually tweaking this stuff all the time. The idea is to have 5–10 fresh
+versions per campaign or ad set ready each day, based on what’s already working using campaign data etc.
+Still super early but I’m wondering if that kind of system would be helpful even for smaller teams or solo
+advertisers. Do you reckon that kind of automation would actually be useful day-to-day?
+2025-04-13T00:56:13.000Z
+r/FacebookAds
+Hi all!
+I am interested in knowing which tools you find most effective for creating and testing Facebook Ads. The
+objective is to balance performance and cost of production.
+1. Canva
+2. AdCreative
+3. Fiverr
+4. Other (Comment below)
+Thanks for the help.
+Hire a designer
+2023-11-21T04:34:27.000Z
+what are the benefits? it's an interesting option as well.
+2023-11-21T08:28:12.000Z
+Hate to disagree but you can test pretty well with canva.
+But as usally: you need the skills.
+If your not an artist, then you need someone.
+It is always great, to make money "with others" but first you have to get cashflow going.
+So think about that If you need to invest.
+2023-11-21T08:38:52.000Z
+what skills do you need for being effective with canva?
+2023-11-21T22:41:41.000Z
+Artistic gens/ skillset, rather then the technical side of things.
+2023-11-22T07:49:18.000Z
+[removed]
+2023-11-21T02:25:29.000Z
+curious why?
+2023-11-21T02:28:48.000Z
+Depends on budget. If your short on budget, creating with canva and video editing tools is a way to go.
+2023-11-21T05:21:42.000Z
+canva or spark adobe
+2023-11-21T07:14:41.000Z
+How do you decide the creative direction using canva? Use their standard templates?
+I am wondering about the performance of their creatives vs a designer.
+2023-11-21T08:27:49.000Z
+You can create your own template from scratch.
+2024-08-31T09:57:11.000Z
+I use [this site](https://www.greatads.co/) for ad inspiration then make the creative in Figma. Canva templates
+on their own won’t perform you have to know how to make good ads! The Ad creative ai tool is complete junk
+though, a sure way to waste spend.
+2023-11-21T09:31:33.000Z
+Start off simple, add complexity as you go. Try and experiment with messaging and using statics or dynamic
+creative capturing angles. You can use Canva to start. This will give you data on which you can decide to try out
+other formats that have depth like video. Eventually, you’d have to utilize adobe, figma, video editing soft, well
+done photography videography. Iphone could work too). There are services out there that let you find ads that
+are running by ppl in your niche, which you can save for your own records and track run times. Good luck!
+2023-12-06T19:30:27.000Z
+r/FacebookAds
+I've seen the term 'creative fatigue' and wonder how I can determine when an ad will hit this phase or is there
+best practices for this?
+When the CPA for that advert increases above the average of our account and other ads simultaneously have a
+lower CPA. You’ll only really experience fatigue on an advert if you’re spending high volumes but most cases
+winning ad is always good to have in rotation with others.
+2025-02-17T00:02:12.000Z
+Creative fatigue happens when people see your ad too much and stop engaging. Signs to watch: CTR drops –
+Fewer people clicking / CPM/CPC rises – Meta charges more as engagement drops. / Frequency 3-5+ – Your
+audience is seeing it too often / ROAS falls – Sales drop but spend stays the same.
+Best fix? Swap in new creatives every 1-2 weeks. That requires a lot of budget, what's yours?
+2025-02-17T02:23:43.000Z
+We can definitely refresh creative weekly. We want to get to probs 10k+ per month on ad spend. For app not a
+physical product. does that change anything?
+2025-02-18T01:28:23.000Z
+Yeah, with an app, fatigue hits even faster since you're selling an experience, not just a product. Instead of just
+swapping creatives, try testing multiple angles at once (pain points, benefits, social proof). Good luck ;)
+2025-02-18T01:47:06.000Z
+Facebook recommends a minimum of three ads in an ad set for the best results. You can address the creative
+fatigue warnings/status by adding more ads to your ad set.
+2025-02-17T05:46:51.000Z
+When it says learning limited or when they stop performing as well. To avoid it, keep rotating in new ad creative.
+2025-02-17T14:11:18.000Z
+Depending on your scale this is probably not an issue you'll need to address. Once you find a strong creative,
+make some variations of it with small changes, ideally trying to optimize some part of the video (hook, retention,
+call to action) or static (messaging, image, call to action) they will likely all work decently well and the concept as
+a whole will carry with you for a long long time (I have things running with literally tens of millions of dollars
+across various variations of them since 2022).
+2025-02-17T07:48:15.000Z
+Track the results. When you see the performance drop below what you’re happy with, and if you think the
+audience is good, add some new ads with different creatives.
+2025-02-17T14:31:52.000Z
+Creative fatigue happens when your ad's effectiveness declines over time due to overexposure. When people
+see the same ad too often, they find it repetitive and engage less.
+Your ad might be in this phase if any of these issues arise (BUT there might be other factors at play too):
+* CTR drops significantly over time, meaning users are losing interest.
+* Increased CPC or CPA while ad spend remains constant suggests the ad is struggling to maintain
+engagement.
+* Decreasing engagement rate means your audience maybe tired of the creative.
+* If the ad frequency goes over 2.5–3x, creative fatigue might set in.
+Check for these symptoms. You can avoid this fatigue by testing different creatives depending on your budget.
+2025-02-17T20:27:21.000Z
+r/PPC
+My question is to all the business owners who run ads, where would you rate ad copy out of all the major factors
+that affect a meta ad's performance?
+As important as creative for a lot of brands. People generally read ad copy after looking at the ad creative. A/b
+testing ad copy can be a good test if a brand struggles to make new creative.
+2025-01-08T16:04:29.000Z
+Should the major focus be on the creative then?
+2025-01-09T06:13:11.000Z
+It is the first thing people see, so it should get a lot of attention but ad copy comes a close second.
+2025-01-09T12:48:02.000Z
+If you're comparing ad copy to an image or video, then I don't think it's as important. Typically when I'm testing
+ad copy, I don't both with small variations. I swing for the fences with test ad copy that is very different from the
+control.
+2025-01-08T14:42:02.000Z
+Thank you for the response.
+Have you ever run into issues with your ad not performing well despite the visuals, targeting and budgeting
+strategy seemingly not being the causes? I want to know if optimising ad copy or testing it has any significant
+impact.
+2025-01-08T15:16:29.000Z
+It depends on what you're selling. Complex products like accounting software may require long form copy that is
+well researched, while with consumer goods like shoes you only need to specify some features and price.
+Eugene Schwartz gives good examples of how you should approach copy depending on product complexity, the
+market's stage of awareness and other aspects, in his book Breakthrough Advertising.
+2025-01-08T16:32:14.000Z
+This makes sense. I'll read the book, thanks
+2025-01-09T06:15:02.000Z
+The bookmis great, but it's quite expensive. Absolutely worth the cost though (~$400ish).
+The copy makes a big difference. The image or video often attract the users attention, but the copy qualifies
+and influences them to do the thing you want (your cta).
+I notice the biggest jumps in performance usually happen with copy A/B tests for FB ads. It's about 50/50 copy
+and media asset for IG ads.
+2025-01-10T14:32:55.000Z
+Yes, that was my hypothesis as well, that copy would influence their decision to take the intended action. I see a
+lot of ads with great creative but poor ad copy, and can't help wonder how they perform
+2025-01-10T16:11:00.000Z
+It depends on the product or service to some degree but I’ve seen different styles or amount of info in text make
+a big difference in ROAS
+2025-01-09T05:43:43.000Z
+r/FacebookAds
+There’s a few pre-requisites you have to understand before even running paid ads. You’ve probably watched a
+lot of YouTube videos, or scraped together knowledge from Google, ChatGPT, and even Reddit. Im going to
+give you the absolute core things you need to know when running paid ads.
+The NUMBER ONE rule of paid advertising is to know your numbers. How are you even going to “scale” or
+whatever if you don’t know your damn numbers?! It’s not complicated to figure it out. Paid ads is all about how
+much your are willing to spend to acquire a sale / lead / whatever. That’s it. Whoever can spend the most
+money to get the most amount of sales wins.
+An easy example is selling supplements. If I charge $60 for a bottle, and it costs me $15 to get the product to
+the customer, I have a margin of $45. My target cost per purchase should be like $30-$35. Your breakeven
+should be $45. This is how you know what your target CPA should be. I’m keeping this example super simple
+(for all the advanced marketers who want to talk about LTV).
+Once you know your numbers, now we have some foundation. The next thing you need to know about paid ads
+is you’re basically trying to find and validate a winning ad concept. There’s a lot of nuances here I know. But
+basically you need to have an underlying ad concept / idea that you can use as a foundation to make ads out
+of. Let’s say I’m selling gut health supplements. Once concept to test could be “this helps with bloating.” Another
+could be “this product helps with stuck poop”. Whatever the concept is, you can make image ads, video ads,
+etc. out of it.
+The way you should structure campaigns is 1 CBO campaign with 3 ad sets, and each ad set will need to have
+maximum 4 ads. Each ad set should test a style of ads like images, videos, etc. BUT, the overall campaign
+should be testing a core concept. Most marketers use ABO to test campaigns which is totally fine. But
+remember this is for people who have a conservative budget and need to validate ideas quickly.
+The reason it’s super important for you to test ads by batch is because we’re trying to quickly validate a concept.
+If we know for certain that the ad concept doesn’t work - then you can kill all ads / any campaign with that
+concept. For example, let’s say I launched 3 campaigns under the concept of “stuck poop” as my earlier
+example with supplements. Campaign 1 has $100 spend, campaign 2 has $75 spend, campaign 3 has $215
+spend. Our target CPA is $35. I would select each campaign and filter out other ones and look at total
+Wouldnt it just be way easier to do all testing in a single CBO campaign per product, so Product 1 | Gut
+Supplements | CBO and then each adset is the ANGLE, adset1 | Angle:Bloating , adset2 | Angle:stuckpoo and
+then under each adset you have your 4 creatives or whatever. Then the CBO will automatically alocate budget
+to the best performing angle so I think this is just WAY easier than what you are doing but im happy to hear
+what you think.
+2025-06-10T00:48:56.000Z
+From what I found, different campaigns do capture different pockets which is why I like to limit adsets in a
+campaign.
+2025-06-10T00:50:59.000Z
+So look the way I see it is if you do it with the method I mentioned is you basically have the adsets be your angle
+tests correct, and if CBO chooses to spend on angle 1 but not angle 2 and 3 then it wouldnt have performed
+anyways so adset1 is your "winning angle" and lets say after 3-7 days you add a new adset4 angle and the CBO
+chooses to start spending on the angle4 then it means that you found the new hot pocket that is even better
+than your adset1 angle, hope im making some sense 💀🤣
+2025-06-10T00:59:26.000Z
+Yeah no I get it. You can try that out - personally I just don’t do that but it might work for you. Everyone has to
+find what works for them!
+2025-06-10T01:02:36.000Z
+I understand everything you said, but for me, here's the key: work with an FB ads guy that already gets results
+for certain kinds of niches. My ad guy is a genius when it comes to service-based companies, from consultants
+to coaches and even service businesses like doctors and dentists to Home improvement, etc.
+He does not take clients that do ecommerce because, he said, well, let's just say he does not get good results
+on ecommerce. So only wants to work in niches that he's familiar with and successful with for his clients. Which
+makes sense for the client.
+2025-06-10T02:06:32.000Z
+r/FacebookAds
+Hi, I was listening to several different experts talking about how long you should wait before you know an ad
+creative is not working - and each says something different. One guy says if the ad is not performing after 2
+days - that means you should change the creative. Other people say you need to wait a couple of weeks or even
+a couple of months...
+What do you think? And - What is the best video metric to judge a video ad performance?
+I'm asking specifically about how to judge the video ad creative. I realize other things may need optimization in a
+campaign, but I feel analyzing the creative performance comes first, because it's the starting point of the
+customer's journey.
+Thanks!
+Campaign profitability aside, for video campaigns look for TSR or thumb stop ratio i.e. 3 sec views on FB, 6 on
+TT.
+Then look for video views duration. This is to improve opening/hook vs value vs offer sections of the vid.
+2024-04-01T10:00:01.000Z
+Thanks, how long do you think I should let the campaign run before I can draw conclusions from the TSR and
+retention rate? What is a reasonable retention rate?
+2024-04-02T18:44:26.000Z
+7-14 days depending on your budget. Let it get to 10k reach before making a call.
+2024-04-02T19:30:51.000Z
+It depends on the campaign goal. If it's website traffic, then CTR; if it's brand awareness, then brand awareness
+(on small budgets - increasing branded searches in search engine); if it's awareness, then video quarter reach.
+2024-04-01T17:02:20.000Z
+Whatever you end up doing base it off certain metrics you decide on. Not amount of days. If you spend $5 a day
+it could take a month to figure it out. Or you can spend $500 in 2 days and get your answer.
+2024-04-02T05:26:50.000Z
+it depends on your sales cycle too.
+if you have an impulse product where people buy now after watching your video then you can tell if a video is
+working rather quickly.
+if you have a $50,000 product where someone takes months to decide then it's tricky.
+look at your previous ads. see how the performance companies and establish a baseline.
+how does your metrics improve with learning?
+2024-04-01T16:37:38.000Z
+r/FacebookAds
+I'm experienced with Meta ads, I test hundreds of creatives per month, but almost always images. I can develop
+a lot of image ads that scale well and cost effectively bring in high quality leads.
+Video ads is another matter. I've helped develop tons, my team has developed tons, and over the last 1.5
+months, **we've probably tested around 100 different videos. The performance on all of them sucks**, lately
+most of them don't even spend during testing.
+[Here's an example of one of our videos](https://drive.google.com/file/d/1Y6wYHblTBaugXVWqoyi-TpMuvXGNb-
+ae/view?usp=sharing). We've tried a ton of concepts, this one is the most in line with our service - online yoga
+sessions, Live through Zoom.
+[**https://drive.google.com/file/d/1Y6wYHblTBaugXVWqoyi-TpMuvXGNb-
+ae/view?usp=sharing**](https://drive.google.com/file/d/1Y6wYHblTBaugXVWqoyi-TpMuvXGNb-
+ae/view?usp=sharing)
+Any idea why our video ads aren't working?
+**Some Details on our account and methodology, in case you're interested:**
+We spend about $400/day on testing. We target session bookings, usually costs about $25 / booking (on
+winning creatives). We use campaign budget optimization. We usually just add new creatives, let Meta choose
+where to spend. This work really well for our image ads, we can test 20-80 at a time and the 5 to 10 good ones
+will surface and spend, the rest are typically duds or perform worse than the winners that surface.
+We've been running Meta ads for about 5 years. Usually spend like $20-$50k USD per month. Our pixel data is
+great, our audiences are thoroughly testing and very good.
+Honestly, the video is quite basic and lacks the basic elements common among top great video ads. There's no
+voiceover, the style looks like a canva video template but from 2019. The audio is weird and inept. No hook—
+visual or otherwise.
+You should invest in hiring a good video editor or at least a UGC ad creator.
+Most great results my marketing agency has driven are from video ads. If you want, we can connect, maybe
+exchange a few ideas and learnings too
+2025-02-18T20:43:07.000Z
+Thanks for the feedback u/growxme . Just DMed you
+2025-02-19T01:17:32.000Z
+Feedback:
+[https://www.loom.com/share/14e718e9e20945c48f744e4ab8c957d6](https://www.loom.com/share/14e718e9e2
+0945c48f744e4ab8c957d6)
+This video shows how we test and scale Facebook ads to 7 figures. You may find it helpful: [https://youtu.be/fF-
+5lCdU5tI](https://youtu.be/fF-5lCdU5tI)
+2025-02-18T20:46:59.000Z
+Hi there, which campaign would you suggest to test a product? ABO, CBO or ASC? Thank you in advance
+2025-02-18T21:01:13.000Z
+Thanks for this loom u/LFCbeliever ! Really insightful!
+Ya, I don't like the audio either. We'll change that.
+We had a contractor who made us videos that worked really well (in 2023). This is modeled after one of his (we
+can't reuse his, it's his IP). He had similar ocean audio, and we reused the b-roll you see here, since it was ours,
+and it worked.
+Ya, totally agree, we are treating video as image... Don't know what to do about that, since we're just learning
+how to make videos now. So we kind of think in images / slideshow type ads.
+About the ABO single ad per adset. That sounds crazy expensive. How do you make that work?
+With CBO and images, we can test 100ish creatives and find the winners. It costs us like $20k, with a lot of
+mediocre ads in there and even more losers. If we were to do single ad tests, we'd spend like $350ish to
+understand performance of a single creative - and testing 100 would cost about $35k (almost 2x our current test
+cost).
+Why do you think CBO approach wouldn't work for videos?
+Haha, love the blunt feedback "I don't love this video, and other people don't either".
+Thanks man, really appreciate your feedback!
+2025-02-19T01:12:10.000Z
+We test using ABO (one ad per ad set) as it gives us complete control over the ad spend and allows us to
+compare ads under the same conditions).
+2025-02-18T21:52:38.000Z
+You don’t need to spend that much to figure out what works and what doesn’t. 4k impressions per ad usually
+more than enough for most ads. Happy to chat as we’d get the testing done for a fraction of the cost with the
+same or better results
+2025-02-19T08:40:17.000Z
+I’ve been thinking about this. How do you judge an ad on only 4k impressions, what metric could you use?
+At a $10 CPM, thats only $40 of spend with a $25 KPI. How would you make a sound decision on that?
+2025-02-21T07:35:24.000Z
+Everything is relative to the other ads in the test. Assuming they all have the same impressions then it’s pretty
+easy to compare based on several factors. Starting with highest intent factors such as purchasing, ATCs, etc.
+Some ads you may need to run a little longer but when we have 10 ads, we’re often down to just a few winners
+by the 2k to 4k mark.
+2025-02-21T08:39:21.000Z
+Put all 3 reasons on the first slide. I lost interest way too fast.
+Woman are demon scrolling, if you wanna catch their attention tell them they can get a smoking hot bod and
+just splurge benefits right away. gotta grasp that attention
+2025-02-18T20:49:21.000Z
+u/Hour-Shelter-3914 do you think people will be able to read all that text in one slide? The credibility statement,
+then all 3 reasons. You feel like that would grab people's attention and be easy to understand?
+2025-02-19T01:00:41.000Z
+Nothing grabs my interest visually, and the whole thing moves painfully slow. Do your customers need extra
+time to read less than 10 words at a time?
+2025-02-18T21:05:48.000Z
+So you think the speed is the main issue, u/PlasticPalm ?
+Any other things we should do better with it?
+2025-02-19T00:47:26.000Z
+Your image ads clearly work well, so it’s odd that videos aren’t gaining traction. A few things to test:
+\-Hook timing – If Meta isn’t spending, the first 3 seconds might not be grabbing attention. Try a faster start with
+an engaging visual or bold text.
+\-Thumbnail matters – Even for video, Meta often spends more on ads with strong static thumbnails. Test
+different ones.
+\-Different placements – Videos may struggle in feed but perform better in Reels or Stories.
+\-Manual budget distribution – If CBO isn’t spending on videos, try ad-set-level budgets to force spending.
+I use StatPrime to track which ad elements are failing—it might help pinpoint why Meta isn’t pushing your
+videos. Worth a look!
+2025-02-19T04:14:05.000Z
+Creating 100 videos per month is the problem. When you hear someone to test creative, they dont mean you to
+test 100 creatives per month which inctually would pressure on the creative team to create that many videos in
+limited budget and resources and end result comes out bad.
+Someone need to block away access to your video editing tool after you create 5 videos.
+In nutshell, create less but more powerful quality ads.
+Think what would I do if i could just create 5 videos this month.
+What would I create if I were to spend $2k for each video and I only have budget of 10k.
+Think from the perspective, then you will plan a better framwork for eg hook->problem->enhance the problem-
+>solution->reviews-CTA with urgency if any.
+There are many styles you can follow, I just mentioned one.
+2025-02-19T04:16:57.000Z
+I would say you use a good editor with a good theme music with a voice over and try using videos of people
+doing a yoga asana and explain how it works and in the end call to action of what you are offering and you can
+even get a UGC creator to do a reel which can be used as a video ad with a call to action in the ad copy.
+2025-02-19T04:48:34.000Z
+Your ads are not at all good man now the competition is increasing in this field so much.
+Very basic videos try UGC and Voice over videos and explore new angles that you have not tried.
+Whats your testing structure ?
+You have to also check if your ads are giving you new customers or just showing your ads to the existing once
+who converted once.
+Study your analytics data as well to understand your core audiences and why they are dropping off from the
+landing page
+Its not always about the meta and its videos sometimes its about the landing page and your offers as well.
+Dont let meta choose what works for you. I prefer structure where i test creatives with proper budget and read
+the metrics to understand whats working and whats not working because until and unless you read your
+creatives data you will be creating 100s of creatives with the same mistakes and none of them will pick up for
+you.
+I would like to discuss whats you structure man.
+2025-02-19T07:01:47.000Z
+YOU HAVE NO OFFER - not sure what your videos are for, i mean, between watching cat videos on tiktok and
+this... i'll go with cat videos.
+whoever is doing this type of video and spending 400/day on testing, had no idea about what marketing / sales
+is about. these videos, while they're good from a production point of view, do nothing when it comes to selling.
+i mean, it looks like these videos were made by a "social media expert" or "web designer", not by a person who
+understands people, why they buy, how they buy and stuff like that...
+shame you're wasting all that money...
+2025-02-19T07:53:48.000Z
+Everything about the video screams ad, and it is very old school. You have the basic ad elements that a static
+ad should have(testimonials, benefits, credibility, cta) but video is different.
+I am a video editor and creative strategist. What I do is reverse engineer ORGANIC content that performs well
+on social platforms, and then recreate it as an ad. That way you already have proof of concept, and it looks like
+the target audience’s favorite content. It speaks their language and lets them know that you “get it.” The best
+video ads are the ones that stand out and spark interest. Most audiences are very good at smelling an ad a mile
+away. In order to make them stop and watch a longer ad, it must be interesting.
+Lmk if you need help with implementing this.
+2025-02-19T15:46:51.000Z
+r/FacebookAds
+It’s good. We know it will only get better too.
+Meta will obviously come out with a better AI as creative builder soon in ads manager.
+The thing is, it really is a race to the bottom.
+Next AI agents will run campaigns, manage ad spend, send reports etc.
+It’s really only months away now.
+I’m seriously considering a completely new career.
+“Use AI and you won’t get behind” yes of course for the next few years maybe, until AI uses AI better than you.
+I hate being so negative, but this is my mind right now.
+https://preview.redd.it/qcah7vzlhkre1.jpeg?width=1536&format=pjpg&auto=webp&s=b3d1e7e3eab747505679aa
+3667c14c84a3a06637
+I gave chatgpt some generic images of my product (the blue puppet) and a brief idea of what I wanted. It
+created this scene in under a minute. To arrange a photos shoot with lighting, models, photographer, photo
+editing etc would cost hundreds, if not thousands of dollars.
+But I’m torn… I’m in a creative arts niche (hand puppets) and a huge part of my target market are creatives who
+are feeling job security anxiety - not to mention the broader issues of creativity and value of talent etc…
+That image above is the worst that it’s going to be. In a few months it will most likely be indistinguishable from a
+real life photo. As a 52 year old lifetime nerd this stuff excites me but also raises some fears. My biggest
+concern is: As more and more jobs get replaced by AI - who’s going to be left to buy our products being
+advertised on a dying platform?
+Facebook is cooked. Let’s face it. Have you spent any doom scrolling time on Facebook lately? It’s a cesspool
+of A( generated slop, scam ads and rage bait that the algorithm feeds you in a desperate attempt to keep you
+scrolling.
+2025-03-29T05:52:34.000Z
+I have to disagree with you here, I am not being optimistic or anything
+But I genuinely believe AI could NEVER replace a good marketer, you could argue it will expand its data base to
+eventually understand human emotions and emotional triggers better, still, a human can only relate to a human
+I do believe however that Meta is gonna keep improving its AI until eventually it will manage everything about
+the ads on its own
+Yet again, never will it replace someone who's really skilled and leverages AI when needed.
+2025-03-28T14:02:31.000Z
+I feel at this rate marketing as a whole will drastically change. My future AI assistant will just suggest based on
+my income, health, needs etc. Google search for example is obviously dead within the next 12-24 months.
+I would classify myself as a an experienced marketer (more so on ad creative performance and strategy) but
+even I have so many concerns, especially my monetary value. I have to now justify myself to clients that I’m
+valuable over an AI with access to thousands of versions of me.
+2025-03-28T14:11:44.000Z
+AI is only as good as the person using it. A person who knows how to prompt constructively and feed it the right
+data will obviously get better results than just asking “make a script for my creative”.
+So I do agree to a partial extend that the person using AI still has to be a knowledgable individual, but it can
+seriously outperform human copywriting in some scenarios
+2025-03-29T23:50:11.000Z
+Why do you think google search will be die
+2025-03-28T14:15:19.000Z
+AI Google response: Google’s share of the global search engine market has fallen below 90% for the first time
+since 2015.
+Factors Contributing to the Decline:
+Rise of Social Media for Discovery: People, particularly Gen Z, are increasingly turning to social platforms like
+TikTok and Instagram for information and local recommendations instead of traditional search engines.
+Growth of AI Search Engines: The emergence of AI-powered search engines and chatbots is also impacting
+Google’s dominance.
+Perceived Deterioration of Search Quality: Some users are expressing frustration with the quality of Google
+Search results, citing issues like the prevalence of sponsored content and difficulty finding reliable sources.
+——-
+Google advertising, SEO etc. is turning to dust - why pay to rank when Google gives me everything I want/need
+with it’s new AI search feature?
+2025-03-28T14:22:13.000Z
+AI solutions doesnt have any ad platform thats why they only recommend product wise solution not brand wise
+when user get the information they google search it and buy the product thats why google search will be always
+dominant and its the best platform for high ROAS intent driven solutions and Meta has bad reputation cause
+results always changing due to problems its algo.
+2025-03-28T14:39:10.000Z
+It will. Within a few years, something like AI will charge for suggestive results ranking.
+Your AI assistant who knows you more than you know you will suggest products based on your persona, income
+etc. and go as far as purchasing it on your behalf.
+This is a very real reality within next 12-24 months.
+Google won’t be necessary - already people are loosing the ability to think for them selves, be decisive and have
+the attention needed to search through google.
+Think about the last thing you googled. Now go search that in chat gpt and tell what was the better experience
+and search result…
+2025-03-28T22:44:28.000Z
+They cant suggest brand wise advicd its against their policy unluss they had an ad platforms thats why its not
+competitor of google
+2025-03-29T11:14:03.000Z
+I think that media buying will be completely devalued by AI, but I can see creative strategy outlasting the ruckus.
+There will still need to be someone to guide creative builds, manage the AI tools, work with influencers, keep up
+to date with the latest trends, etc. I think being a resourceful generalist, someone who understands the
+foundations of buying, creative strategy, reporting, and the rest, AND can execute with AI tools will have
+leverage. One person will replace the paid ads teams that we see today…is my guess.
+2025-03-29T16:25:08.000Z
+Você acha que as outras áreas não têm o mesmo drama? Quer fugir realmente do problema? Seja pedreiro,
+eletricista, jardineiro.
+Agora, se for seguir com trabalho de escritório, trabalho intelectual, antes se aproveitar da produtividade com IA
+e agentes em uma área que você domina do que cair de para-quedas em uma área desconhecida.
+Não domina tua área? Comece a dominar, para já.
+HBC: hora de bunda na cadeira. Ler, estudar, praticar.
+2025-03-28T23:41:04.000Z
+Me no understando Amigo
+2025-03-29T05:46:59.000Z
+r/FacebookAds
+I have one ABO campaign with different ad creatives and their variations (3 max) within each ad set. I'm
+currently testing trending/winning ad creatives, such as Problem/Solution Ads, UGC Ads, Us vs. Them Ads, and
+Before/After Ads.
+I want to move the ads that perform well to my Advantage+ Shopping campaign, but there’s no point in doing
+that because no matter which winning ad I add, the Advantage+ budget still goes to the DPA ads. I’m happy that
+the DPA ads are performing well, but what’s the point of creative testing if none of them get budget allocated?
+Is anyone else experiencing the same issue? What are your thoughts?
+We had a similar experience with our clients. In most cases the DPA ads consistently outperformed all other
+ads, when the catalog was big.
+If you have the resources, I'd suggest setting up a new campaign and including static images, videos, and other
+creatives.
+That's what we did. this new campaign almost matched the performance of the DPA.
+However, if the DPA is already delivering good sales and ROAS, and you don't have the budget for a new
+campaign, it's probably best to stick with what's working. The best part about DPA's is that they are super low
+effort lmao.
+2024-08-09T05:48:08.000Z
+Putting in all those efforts and getting a low amount of reach is something you legitimately want to avoid. In your
+case, a well-thought-out creative testing plan goes underutilized.
+Unfortunately, we don't have so much to say about a CBO campaign like an Advantage+ Shopping campaign.
+They are designed to promote your shopping feed. However, you can do the following to compensate for your
+loss in receiving fewer impressions from tested creatives.
+We know the Advantage+ Shopping campaign does remarketing on its own, right? I don't think we'd do harm to
+your ad account if we could remarket your tested creatives to the viewers of your product as well.
+So, a real-world scenario would seem like that:
+1 ABO test campaign
+1 Advantage+ Shopping campaign
+1 CBO campaign (with your tested-out creatives)
+\* Audience signal is your Advantage+ Shopping campaign viewers.
+This way, you'll not only ensure you'll utilize your testing efforts, but also you'll be enriching the remarketing
+experience with a more human touch.
+P.S. One more thing: the most important part of Facebook Ads, counterintuitively, takes place outside of the
+Facebook Ads interface. Check out CRO (Conversion rate optimization) to ensure you get the highest efficiency
+out of your ad investment.
+A quick introduction to CRO:
+CRO eliminates Cognitive, Emotional, and Interaction Friction.
+2024-08-09T05:57:15.000Z
+r/FacebookAds
+Hi! I need your swarm intelligence - I am about to step the ad creation and ad creative testing process for clients
+with up to 200 creatives per month and I am looking for input regarding how to set up a suitable ad creative
+testing framework.
+Some questions that I need answers to:
+- How do you create a production list for that amount of creatives?
+- How does a good testing documentation look like?
+- What tool are you using to document the testing process (I saw Notion and Google Sheets a couple of times
+already)
+- How do you name your creatives to keep track of them in the data analysis?
+Thanks for helping 🤞
+This video shows how we test and scale Facebook ads to 7 figures. You may find it helpful: [https://youtu.be/fF-
+5lCdU5tI](https://youtu.be/fF-5lCdU5tI)
+2025-03-25T21:33:19.000Z
+r/FacebookAds
+Hey y’all! Does anyone here use any websites, email lists, or resources that provide ad creative inspiration or
+swipe files? I’m in need of some new inspiration and ideas, I feel like for the past few months my creative ideas
+have all been repeats of old ideas or mediocre new ideas.
+For context, I mostly work with E-Com brands and local service companies.
+I built a software for this called [Adspo](https://adspo.co/). It works similar to Foreplay but focuses heavily on
+unique creatives from a curated list of ecom brands
+2024-10-31T04:13:44.000Z
+One of my favorite places to go to is the [Facebook Ad
+Library](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=US
+&media_type=all), search some brands up, and see what’s been working for how long.
+TikTok also has a great ad library as well
+Also check out [Foreplay](https://www.foreplay.co/)
+2024-06-28T12:06:36.000Z
+Second this one. Ad Library is an amazing resource if you have some hero or inspiration brands you follow.
+[Milled.com](http://Milled.com) is also a great one.
+2024-06-28T18:26:51.000Z
+facebook ad library
+swipejuice .com (free)
+foreplay (pricey imo)
+2025-03-05T18:16:24.000Z
+Use "foreplay" to get an ideation. Its paid tool
+2024-06-28T12:08:46.000Z
+You could try linking with a content marketing consultant
+2024-06-28T15:52:11.000Z
+You can always check out the [Facebook Ad Library](https://www.facebook.com/ads/library/) to see what
+creatives your competitors are running. But if you want to save time, try services like
+[Magritte](https://www.magritte.co/). They’ve got tons of high-performing ad templates, so you can easily launch
+dozens of creatives a day—no design skills needed.
+2025-01-17T21:51:39.000Z
+I built [Butter](https://usebutter.com/), a video editor with thousands of remix-able ad templates from real world
+brands. Rather than just browsing and saving to your swipe file, you can jump in immediately and start creating.
+We release new templates every week.
+2025-02-27T07:31:02.000Z
+I’ve tried a couple of various services. Most of them are just scraped ads from open libraries.
+However, I stumbled upon [this one](https://colorexplorer.io) and it’s been pretty nice, offering a deeper level of
+insights.
+2025-04-27T20:58:14.000Z
+[https://whimsel.framer.website/](https://whimsel.framer.website/) Is focused on video ads and has the ability to
+save personal collections
+2025-04-30T02:28:49.000Z
+I recently found out about this website [InstaClip AI](https://instaclipai.com) which focuses on static ads. Their
+whole setup is for DTC brands who want to clone ads from big brands but with their own products. Working
+pretty good for me so far
+2025-06-04T17:22:24.000Z
+r/FacebookAds
+After I come up with creative brief & script for an ad, I then have to find relevant scenes / clips to send to my
+editors. I reuse a lot of stuff (I'd rather not have new paid UGC for every single video ad I want to launch).
+Scrolling through a bunch of different videos to find a specific clip in mind is obviously not the most pleasant
+thing.
+Is there any way to quickly find relevant clips to use in video ads from a large asset bank of UGC / pro-shoots?
+Some kind of semantic search. I use google drive at the moment. Am I just complaining or has anyone else also
+felt this frustration?
+I'm old school. Labelling the files with a few relevant keywords can make finding clips fairly easy.
+2025-01-28T18:49:03.000Z

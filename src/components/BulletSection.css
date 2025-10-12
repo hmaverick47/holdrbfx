@@ -1,0 +1,22 @@
+/* BulletSection specific styles */
+
+/* Override text alignment for bullet points */
+.bullet-point-title {
+  text-align: left !important;
+}
+
+.bullet-point-description {
+  text-align: left !important;
+}
+
+/* Make sure the bullet point containers are properly aligned */
+.bullet-point-container {
+  text-align: left !important;
+  display: flex !important;
+  align-items: flex-start !important;
+}
+
+/* Override any global header-font styles for bullet point section */
+.bullet-section .header-font {
+  text-align: left !important;
+}
