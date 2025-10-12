@@ -50,15 +50,46 @@ npm run dev
 - Click on "New codespace" to launch a new Codespace environment.
 - Edit files directly within the Codespace and commit and push your changes once you're done.
 
-## What technologies are used for this project?
+## Holdr BFX Landing Page
 
-This project is built with:
+🚀 **Turn your ad spend into predictable profit. 20%+ ROAS improvement guaranteed or we work for free.**
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+A modern, responsive landing page for HOLDR BFX - Expert creative optimization for D2C e-commerce brands.
+
+## 🌐 Live Site
+- **Production:** [https://hmaverick47.github.io/holdrbfx/](https://hmaverick47.github.io/holdrbfx/)
+
+## 🛠️ Tech Stack
+- React 18 + TypeScript
+- Vite (Build Tool)
+- Tailwind CSS + shadcn/ui
+- Lucide React Icons
+
+## 🚀 Quick Start
+
+### Development
+```bash
+npm install
+npm run dev
+```
+
+### Production Build
+```bash
+npm run build
+npm run preview
+```
+
+## 📦 Deployment
+This project is automatically deployed to GitHub Pages via GitHub Actions when changes are pushed to the `master` branch.
+
+## 🎯 Features
+- Responsive design optimized for all devices
+- Modern UI components with shadcn/ui
+- Performance optimized with Vite
+- SEO-friendly meta tags
+- Professional landing page sections
+
+This project was created with React + TypeScript + Vite.
 
 ## How can I deploy this project?
 
